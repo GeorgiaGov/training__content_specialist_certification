@@ -1,5 +1,5 @@
 # content_specialist_certification
-This repository includes resources, slides, and handouts for GeorgiaGov Interactive's Content Specialist Certification Course.
+This repository includes resources, slides, and handouts for [GeorgiaGov Interactive's Content Specialist Certification Course](https://portal.georgia.gov/interactive/state-certified-content-specialist-course).
 
 ## About the Course
 
