@@ -1,3 +1,4 @@
+# Personas
 How well do you really know your audience? It’s important to know the different types of people your agency serves, and to understand their goals and frustrations. In this class, we’ll talk about the importance of knowing your users and give you the tools to start researching. At the end of the class, you will have a solid start to creating your state agency’s personas.
 
 ## Objective
