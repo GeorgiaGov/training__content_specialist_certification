@@ -4,12 +4,12 @@ Once you’ve completed the Personas workshop, you’re ready to dig a little de
 ## Objective
 Understand how citizens interact with your agency and how your current site performs for your various personas.
 
-## What you'll learn
+## Topics
 - **What do my users see?** We examine realistic situations based on your personas. People are trying to access various information from your agency based on their individual need. Does your content deliver?
 - **Stress Cases:** We can’t always imagine our users in the perfect situation with plenty of time. We talk about “the crisis persona” and how distress affects a user’s experience.
 - **Citizen Journey Mapping:** We identify each stage of citizens’ interactions with your agency, defining their goals, actions, emotional state, thoughts, and touch points for each.
 
-## What you'll get
+## What You'll Get
 - Another step towards completing your personas and empathy map
 - A customer journey map
 
