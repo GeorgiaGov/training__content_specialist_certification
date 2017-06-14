@@ -16,4 +16,4 @@ Understand how citizens interact with your agency and how your current site perf
 - A customer journey map
 
 ## Prerequisites
-You must take [Personas](/training__content_specialist_certification/tree/master/1_personas) before attending this class.
+You must take [Personas](/1_personas) before attending this class.
