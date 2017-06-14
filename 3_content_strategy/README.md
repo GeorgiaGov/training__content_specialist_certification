@@ -1,6 +1,8 @@
 # Content Strategy
 How do you present yourself to your audience? In this course, we take a high-level, strategic look at content. You’ll learn how to maintain consistency across channels, and how to get the most out of your online content.
 
+See and comment on the [Content Strategy Google Slides presentation](https://docs.google.com/presentation/d/12YPI5n-KTuDCOzVfVtiKnzbFXWhLvO0KMsRio6dtdlQ/edit?usp=sharing).
+
 ## Objective
 Develop a consistent voice and tone for your agency, plan content for the year, and learn how to maximize the benefits of your online content.
 
