@@ -1,13 +1,13 @@
 # Content Specialist Certification Course
-This repository includes resources, slides, and handouts for [GeorgiaGov Interactive's Content Specialist Certification Course](https://portal.georgia.gov/interactive/state-certified-content-specialist-course).
+This repository includes resources, slides, and handouts for [Digital Services Georgia's Content Specialist Certification Course](https://portal.georgia.gov/interactive/state-certified-content-specialist-course).
 
 ## About the Course
 
-GeorgiaGov Interactive is offering a series of 6, half-day workshops on content and understanding your audience. These courses are designed as a hands-on approach for state agencies to improve their content strategy, writing, and best practices for accessibility.
+Digital Services Georgia offers a series of 6, half-day workshops on content and understanding your audience. These courses are designed as a hands-on approach for state agencies to improve their content strategy, writing, and best practices for accessibility.
 
-**The course is available at no cost to Georgia state agency employees.**
+**The cost of this course is covered for agencies on the GeorgiaGov platform under hosting and support.**
 
-To receive your Content Specialist certification, you must complete six 3-hour classes:
+To receive your Content Specialist certification, you must complete **six 3-hour classes**:
 1. Personas
 2. Citizen Journey Mapping
 3. Content Strategy
