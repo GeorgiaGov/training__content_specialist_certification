@@ -3,19 +3,14 @@ How well do you really know your audience? It’s important to know the differen
 
 See and comment on the [Personas Google Slides presentation](https://docs.google.com/presentation/d/1yjXrIrGsfafsy7NPGe9k6r-rxr_wFHoKgkjqJzwg-uc/edit?usp=sharing).
 
-## Objective
-Know the importance of understanding your user and gather the tools to start researching.
-
 ## Topics
-- **Nonempirical Research:** We take a look at our assumptions on who our audiences are, such as basic demographics and preferred contact method. We cover how to gather observation-based information about our users including personality traits and goals.
-- **Data-Driven Research:** How do you collect data that confirms or denies your previous assumptions? We show you how to use the tools already on our platform as well as industry-standard tools we use for clients.
-- **Segment Users:** Learn how to find and define commonalities among users. We begin grouping user traits based on what we need to know. (Level of knowledge, needs, etc.)
-- **Drafting Your Personas:** Separate 3-5 of the more dominant personality and behavior traits and create a character based on those. We’ll give them a name, bio, and identify their common frustrations and goals.
-- **Empathy Maps:** While personas focus on common traits and demographics such as age or gender, empathy maps are centered around emotions and experiences. How do surroundings and thoughts influence how people act when they seek your services?
+- Observation-based research
+- Data-driven research
+- Drafting your personas
+- Empathy maps
 
-## What You'll Get
-- At least 1 persona for your state agency
-- An empathy map
+## Class Materials
+Download the materials in this folder to follow along.
 
 ## Prerequisites
 There are no prerequisites to take this class.

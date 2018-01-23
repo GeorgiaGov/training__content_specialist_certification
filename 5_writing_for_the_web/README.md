@@ -3,17 +3,16 @@ What good is content if no one can understand it? In government, it can be trick
 
 See and comment on the [Writing for the Web Google Slides presentation](https://docs.google.com/presentation/d/1xtu6eNSWme1M_Qd-__yYHFGaM7i4zF7ffTlQRPbQu8w/edit?usp=sharing).
 
-## Objective
-Learn how to simplify your writing for everyone to understand, and prepare a style guide to use throughout your agency communications.
-
 ## Topics
-- **Readability:** Get some tips and practice making your writing easier to scan and understand.
-- **Accessibility Online:** Learn how to make your online content accessible, and what tools on the GeorgiaGov platform can help.
-- **Editorial Style Guides:** What goes into an editorial style guide, and how do you use one?
+- Readability
+- Editorial style guides
 
-## What You'll Get
-- Accessibility checklist
-- An editorial style guide tailored for your agency
+## Class Materials
+Download the materials in this folder to follow along.
+You will also need:
+- Laptop
+- Login credentials to your website
+- Completed Content Strategy exercises
 
 ## Prerequisites
 You must take [Content Strategy](/3_content_strategy) before attending this class.
